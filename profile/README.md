@@ -6,6 +6,6 @@
 
 <p align="center">
     <a href="https://blacksmith.sh">
-        <img src="./blacksmith.png" alt="Blacksmith" width="320">
+        <img src="./blacksmith.jpg" alt="CI powered by Blacksmith" width="368">
     </a>
 </p>
