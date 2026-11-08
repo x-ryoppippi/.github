@@ -1,6 +1,6 @@
 # x-ryoppippi
 
-ryoppippi's collective
+[ryoppippi](https://github.com/ryoppippi)'s collective
 
 ## Sponsors
 
